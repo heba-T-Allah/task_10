@@ -65,7 +65,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           height: 60,
                           fit: BoxFit.fill,
                         ),
-                      ),
+                       ),
                     ),
                     ListTile(
                       title: Text(items[index]["title"],style: TextStyle(fontSize: 20,fontWeight: FontWeight.bold),),
